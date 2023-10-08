@@ -1,0 +1,59 @@
+main {
+  background-color: rgb(230, 230, 230);
+  font-family: BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  padding: 10px;
+  margin: 2.5rem 20px;
+  
+  }
+
+h1, p, tribute-info{
+    text-align: center;
+    width: 100%
+  }
+
+#img-div {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+
+  background-color: #fff;
+  margin: 30px 70px;
+  padding: 0 0 13px;
+  flex-wrap: wrap;
+}
+
+#image {
+  margin-bottom: 10px;
+  max-width: 100%;
+}
+
+ul {
+  margin: 20px 600px;
+  text-align: left;
+  
+}
+li {
+   display: list-item;
+   line-height: 1.5;
+   margin-bottom: 10px;
+ }
+
+ h2 {
+   text-align: center;
+ }
+
+ #tribute-info p {
+   margin: 20px 620px;
+   text-align: left;
+   max-width: 450px
+}
+
+#tribute-link {
+   
+   color: #477ca7;
+   text-decoration: none;
+ }
+
+ #tribute-info h3 {
+   text-align: center;
+ }
